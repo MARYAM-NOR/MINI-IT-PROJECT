@@ -1,0 +1,5 @@
+Q01|A student goes to school at the rate of 7.5 km/hr and reaches 10 minutes late. If he travels at the speed of 10 km/hr he is 10 minutes early. What is the distance to the school?|40 km|12 km|9 km|10 km|D
+Q02|Two persons jog and covers the same distance at the speed of 6 km/hr and 4 km/hr. Find the distance covered by each one of them when one takes 10 minutes longer than the other.|4 km|3 km|2 km|1 km|C
+Q03|A train moves at a speed of 80 km/hr. How far will it travel in 36 minutes?|50 km|48 km|47 km|45 km|B 
+Q04|A car travels along a straight road 100 m east then 50 m west. Find displacement of the car.|50 meters to the East|50 meters to the West|25 meters to the East|25 meters to the West|A
+Q05|A runner travels around rectangle track with length = 50 meters and width 20 meters. After travels around rectangle track two times, runner back to starting point. Determine the displacement.|280 m|275 m|157 m|0 m|D

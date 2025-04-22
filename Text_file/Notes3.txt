@@ -1,0 +1,3 @@
+N01| The shortest length between an object's start and endpoint as well as the direction of the motion| The total length of the path that the object travels
+N02| Vector Quantities| Scalar Quantities
+N03| Has Magnitude and Direction| Has Magnitude only

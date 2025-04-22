@@ -1,0 +1,5 @@
+Q01|SI unit of velocity is...|Pa/s|T/s|m/s|W/s|C
+Q02|Speed is ...|Scalar quantity|Vector quantity|Dimensionless quantity|None of the option|A
+Q03|A man walks 7 km in 2 hours and 2 km in 1 hour in the same direction. What is the man's average speed for the whole journey?|5 km/h|4 km/h|3 km/h|2 km/h|C
+Q04|John drove South 120 km at 60 km/h and then East 150 km at 50 km/h. Determine the average speed for the whole journey.|54 km/h|53 km/h|36 km/h|34 km/h|A
+Q05|A  train travels along a straight line at a constant speed of 60 mi/h for a distance d and then another distance equal to 2d in the same direction at a constant speed of 80 mi/h. What is the average speed of the train for the whole journey?|86 mi/h|85 mi/h|75 mi/h|72 mi/h|D
